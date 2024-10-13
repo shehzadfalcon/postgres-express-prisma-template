@@ -1,4 +1,5 @@
 # Project Name
+Postgres Express Prisma Template
 
 ## Description
 A boilerplate for building RESTful APIs using Express.js, Prisma ORM for database migrations, and PostgreSQL as the database. This template is designed to kickstart your projects with a structured setup and essential features.
